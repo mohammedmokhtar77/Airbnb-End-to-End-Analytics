@@ -159,25 +159,28 @@ Airbnb_Project/
 
 # 🚀 Dashboard Preview
 
-## 1. Executive Overview
+## 1. Home
 
-![Dashboard Preview](dashboard/Images/Screenshot 2026-07-06 022439.png)
+![Dashboard Preview](dashboard/Images/Home.png)
 
-## 2. Location Analysis
+## 2. Executive Overview
 
-![Dashboard Preview](dashboard/Images/Screenshot 2026-07-06 022450.png)
+![Dashboard Preview](dashboard/Images/Overview.png)
 
-## 3. Property Analysis
+## 3. Location Analysis
 
-![Dashboard Preview](dashboard/Images/Screenshot 2026-07-06 022503.png)
+![Dashboard Preview](dashboard/Images/Location.png)
 
-## 4. Host & Customer Analysis
+## 4. Property Analysis
 
-![Dashboard Preview](dashboard/Images/Screenshot 2026-07-06 022514.png)
+![Dashboard Preview](dashboard/Images/Property.png)
 
-## 5. Executive Summary
+## 5. Host & Customer Analysis
 
-![Dashboard Preview](dashboard/Images/Screenshot 2026-07-06 022524.png)
+![Dashboard Preview](dashboard/Images/Host.png)
+
+## 6. Executive Summary
+
+![Dashboard Preview](dashboard/Images/Strategic.png)
 
 
-![Dashboard Preview](dashboard/Images/Screenshot 2026-07-06 022533.png)
